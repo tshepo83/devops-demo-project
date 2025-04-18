@@ -13,7 +13,7 @@ image:
 
 appName: demo-java-app
 
-namespace: default
+namespace: app
 
 kibanaService: "kibana-service:5601"
 esService: "es-master-service:9200"
